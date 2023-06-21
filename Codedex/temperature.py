@@ -25,6 +25,8 @@ print("Voce acertou ? \n" + str(acertou))
 fahrenheit=input("qual a tenperatura em Fahrenheit?")
 celsius=(float(fahrenheit)-float(32))/1.8
 
-print("A temperatura em Celsius é"+str(celsius))
+print("A temperatura em Celsius é "+str(celsius)) 
+
+#Todos os cálculos devem ser feitos numericamentes (type float and int) e convertidos para #string somente na hora de printar
 
 
