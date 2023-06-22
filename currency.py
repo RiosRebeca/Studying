@@ -8,5 +8,7 @@ dolar = (float(peso)*0.004) + (float(soles)*0.28) + (float(reais)*0.21)
 
 print("No total você tem"+ str(dolar))
 
+#o 'dolar' retorna em float por isso transforma ele em str
+
 
 
