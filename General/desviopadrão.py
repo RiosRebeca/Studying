@@ -12,3 +12,4 @@ divisao = (psoma+ssoma)/2
 DV = float(divisao)**0.5
 
 print(m,psoma,ssoma,divisao,DV)
+
