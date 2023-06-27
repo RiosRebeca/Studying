@@ -7,6 +7,6 @@ porque=input("porque eu")        #a = str("te amo")
 
 while porque != "te amo":
   porque = input("porque eu")
-  if porque == "te amo":
-    print("E não consigo me ver sem ser o teu amor por anos\n    Não é acaso, é só amor\n    Não existe engano")
+  
+print("E não consigo me ver sem ser o teu amor por anos\n    Não é acaso, é só amor\n         Não existe engano")
 
