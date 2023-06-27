@@ -16,8 +16,7 @@ a = str("te amo")
 
 while porque != a:
   porque=input("porque eu")
+  if porque == a:
+    print("E não consigo me ver sem ser o teu amor por anos\n    Não é acaso, é só amor\n    Não existe engano")
 
 
-#if porque == "te amo" or porque == "Te amo":
-  #print("E não consigo me ver sem ser o teu amor por anos\n    Não é acaso, é só amor\n    Não #existe engano")
-  
