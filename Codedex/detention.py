@@ -5,6 +5,8 @@ for a in range(7):            #eu quero que vc coloque em 'a' o que esta em rang
                               #o step normalmente é 1, mas você pode mudar essas duas variáveis
 
 for d in range(0,100,1):
-  print(d, "eu não vou usar o celular na aula") #aqui usou o 'd' como primeiro argumento. Se usasse o '+' teria que convertê-lo str
+  print(d, "eu não vou usar o celular na aula") 
+
+#aqui usou o 'd' como primeiro argumento. Se   #usasse o '+' teria que convertê-lo str
 
 
