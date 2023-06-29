@@ -8,21 +8,21 @@ ap=int(input("Insira o valor da absorbância padrão: "))
 
 ferro = ((a2 - a1) / ap) * 500  # (µ/mL)
 if ferro >= 50 and ferro <= 150:
-    print("O valor do ferro é", ferro, "(µg/mL) e está dentro do recomendado")
+    print(f"O valor do ferro é  {ferro}(µg/mL) e está dentro do recomendado")
 elif ferro < 50:
-    print("O valor do ferro é", ferro, "(µg/mL) e está abaixo do recomendado")
+    print(f"O valor do ferro é {ferro}(µg/mL) e está abaixo do recomendado")
 else:
-    print("O valor do ferro é", ferro, "(µg/mL) e está acima do valor reconmendado")
+    print(f"O valor do ferro é {ferro}(µg/mL) e está acima do valor reconmendado")
 
 fc = 500/ap
 
-feserico = (a2-a1) * fc
-if feserico < 50 or feserico > 150:
-    print("O valor do ferro sérico é", feserico, "(µg/mL) e está dentro do recomendado")
-elif feserico < 50:
-    print("O valor do ferro sérico é", feserico, "(µg/mL) e está abaixo do valor recomendado")
+ferro_serico = (a2-a1) * fc
+if ferro_serico < 50 or ferro_serico > 150:
+    print(f"O valor do ferro sérico é {ferro_serico}(µg/mL) e está dentro do recomendado")
+elif ferro_serico < 50:
+    print(f"O valor do ferro sérico é {ferro_serico}(µg/mL) e está abaixo do valor recomendado")
 else:
-    print("O valor do ferro sérico é", feserico, "(µg/mL) e está acima do recomendado")
+    print(f"O valor do ferro sérico é {ferro_serico}(µg/mL) e está acima do recomendado")
 
 #Capacidade de ligação de ferro
 
