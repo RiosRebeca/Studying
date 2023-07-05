@@ -23,7 +23,6 @@ print(classe_math)
                                        
 help(classe_math)                     
 
-        """
-        Existem muitas funções dentro de uma classe e não conseguimos 						conhecer todas dentro de uma linguagem, por isso usar o 'help' 
-	é importante
-        """
+"""
+Existem muitas funções dentro de uma classe e não conseguimos conhecer todas dentro de uma linguagem, por isso usar o 'help' é importante.
+"""

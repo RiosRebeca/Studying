@@ -1,6 +1,6 @@
 #!C:\Users\eurek\AppData\Local\Microsoft\WindowsApps\python3
 
-print("Avaliação do ferro")     
+print("Avaliação do ferro.upper()")     
 
 a1=int(input("Insira o valor de absorbância 1: "))
 a2=int(input("Insira o valor da absorbância 2: "))
@@ -37,7 +37,7 @@ else:
 
 #Capacidade total de ligação de ferro
 
-ctlf = feserico + cllf
+ctlf = ferro_serico + cllf
 if ctlf >= 250 and cllf <= 400:
     print(f"Sua CTLF é {ctlf}(µg/dL) e está dentro do valor reconmendado")
 elif ctlf < 250:
@@ -48,7 +48,7 @@ else:
 
 #Índice de saturação da transferrina
 
-its = (feserico/ctlf) * 100    
+its = (ferro_serico/ctlf) * 100    
 if ctlf >= 20 and cllf <= 50:
     print(f"Sua CTLF é {its}% e está dentro do valor reconmendado")
 elif ctlf < 20:
