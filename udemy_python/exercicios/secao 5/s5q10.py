@@ -1,26 +1,21 @@
 print("EXERCÍCIO 5 Q10")
 
+'''
+faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal, utilizando as seguintes fórmulas (onde h corresponde à altura)
 
-s = int(input("Qual seu sexo biológico?\n    a) Homem\n    b) Mulher\n    "))
+homens: (72.7 * h) - 58
+mulheres:(62.1 * h) - 44.7
+'''
 
-a = 0
-b = 0
+altura = float(input("Qual é a sua altura em metros? "))
+sexo = input("Qual é o seu sexo (M para masculino, F para feminino)? ")
 
-if s == a:
-    print( a + 1)
-elif s == b:
-    print(b + 2)
+if sexo.upper() == "M":
+    peso_ideal = (72.7 * altura) - 58
+    print("Seu peso ideal é:", peso_ideal)
+elif sexo.upper() == "F":
+    peso_ideal = (62.1 * altura) - 44.7
+    print("Seu peso ideal é:", peso_ideal)
 else:
-    print("dado inválido")
+    print("Sexo inválido. Por favor, insira M para masculino ou F para feminino.")
 
-h = float(input("Qual sua altura?"))
-
-p1 = (72 * h) - float(58)
-p2 = (62.1 * h) - float(44.7)
-
-if s == 1:
-    print(p1)
-elif s == 2:
-    print(p2)
-else:
-    print("Resposta inválida")
