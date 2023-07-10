@@ -20,4 +20,6 @@ for filhas in nomes:
 - nomes é a variável e dentro dele contém seus repectivos valores.
 - Lê-se: por filhas, coloque o que está dentro da lista 'nomes'.
 - a cada "for", ou seja, vez que ele for passando por cada alemento da lista 'nomes' ele vai printar o elemento.
+
+OBS: lembrar de definir, se é str usar ' '.
 '''
