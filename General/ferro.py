@@ -39,11 +39,11 @@ else:
 
 ctlf = ferro_serico + cllf
 if ctlf >= 250 and cllf <= 400:
-    print(f"Sua CTLF é {ctlf}(µg/dL) e está dentro do valor reconmendado")
+    print(f"Sua CLLF é {ctlf}(µg/dL) e está dentro do valor reconmendado")
 elif ctlf < 250:
-    print(f"Sua CTLF é {ctlf}(µg/dL) e está abaixo do valor reconmendado")
+    print(f"Sua CLLF é {ctlf}(µg/dL) e está abaixo do valor reconmendado")
 else:
-    print(f"Sua CTLF é {ctlf}(µg/dL) e está acima do valor reconmendado")
+    print(f"Sua CLLF é {ctlf}(µg/dL) e está acima do valor reconmendado")
 
 
 #Índice de saturação da transferrina
