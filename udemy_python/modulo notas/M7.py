@@ -43,7 +43,7 @@ print(lista_b)
 print(lista_a.count(1))
 print(lista_e.count('l'))
 
-# Podemos adicionar elemento, utilizando a função .append () 
+# Podemos adicionar elemento, utilizando a função .append() 
 
 print(lista_a)
 lista_a.append(29)  # ele só add um por vez
@@ -70,7 +70,7 @@ outra_lista = [4, 5, 6]
 minha_lista.extend(outra_lista)
 print(minha_lista)  # Output: [1, 2, 3, 4, 5, 6]
  
-# Podemos adicionar elementos em posições ESPECÍFICAS da lista usando o .insert(posição, argumento)
+# Podemos adicionar elementos em POSIÇÕES ESPECÍFICAS da lista usando o .insert(posição, argumento)
 
 minha_lista = [1, 2, 3, 4]
 
@@ -102,9 +102,74 @@ print(minha_lista)  # Output: [3, 4]
 no .pop() podemos colocar qual a posição do elemento que queremos remover.
 '''
 
+# Converter uma str para uma lista
 
+lista_1 = "Sofia é muito inteligente"
+lista_1 = Lista_1.split()   # Output:   lista_1 = "Sofia", "é", "muito", "inteligente"
 
+'''
+Por padrão, o separador das str é uma vírgula, mas podemos adicionar outro separador se espercificamos assim: ('')
+'''
 
+lista_2 = "Eu quero aprender python"
+lista_2 = lista_2.split(',')
+
+# Converter uma lista para uma str
+
+lista_3 = ['Um', 'dois', 'três', 'indiozinhos']
+musica = ' '.join(lista_3)
+print(musica)                  #Output: Um dois três indiozinhos
+
+'''
+estamos falando: pega a lista_3, coloca espaço entre cada elemento e transforma em uma lista. Podemos adicionar mais coisas antes dentro dos ('').join, como caractéres, letras, listas...o importante é usar a lógica.
+'''
+
+# Iterando sobre listas 
+
+lista_4 = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+for elemento in lista_4:
+    print(elemento)
+
+#output:
+'''
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+--> Em programação, iteirar significa passar por cada elemento de uma coleção (lista, str, tupla, dicionário etc.) e realizar uma ação em cada elemento.
+--> Não dá para add um valor int a lista sem antes tranformar, por isso usamos a função range(len(lista)).
+--> Aqui você diz que quer len() o COMPRIMENTO da lista e ele VAI RETORNAR UM INT.
+--> O range() é usado para você saber o alcance de algo, nesse exemplo lista é o STOP
+'''
+
+# Iterar usando o while
+
+carrinho = []
+produto = ''
+
+while produto != 'sair':
+    print("Adicione um elemento na lista ou digite 'sair' para sair: ")
+    produto = input()
+    if produto != 'sair':
+        carrinho.append(produto)
+for produto in carrinho:
+    print(produto)
+
+# Fazemos acesso aos elementos de forma indexada
+
+roupas = [camisa, short, blusa, moletom, calça, bota, sapato, sandália]
+print(roupas[0])
+print(roupas[4])
+
+ele vai printar camisa e calça porque camisa está na posição 0 e calça na posição 4. 
 
 
 
