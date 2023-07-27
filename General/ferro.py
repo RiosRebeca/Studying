@@ -1,6 +1,6 @@
 #!C:\Users\eurek\AppData\Local\Microsoft\WindowsApps\python3
 
-print("Avaliação do ferro.upper()")     
+print("Avaliação do ferro")     
 
 a1=int(input("Insira o valor de absorbância 1: "))
 a2=int(input("Insira o valor da absorbância 2: "))

@@ -171,6 +171,28 @@ print(roupas[4])
 
 ele vai printar camisa e calça porque camisa está na posição 0 e calça na posição 4. 
 
+'''
+.index()
+
+--> slicing [ start, stop, step] que nem o range
+
+'''
+
+# Invertendo valores em uma lista 
+
+nomes = [ 'Geek', 'University']
+
+nomes[0], nomes[1] = nomes[1], nomes[0]
+print(nomes)
+
+#output: ['University', 'Geek']
+
+# Para saber o valor máximo e o valor mínimo
+
+a = [ 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+print(min(a))     # output: 1
+pint(max(a))      # output: 9
 
 
 
