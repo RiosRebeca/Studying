@@ -43,6 +43,14 @@ print(lista_b)
 print(lista_a.count(1))
 print(lista_e.count('l'))
 
+--> Para verificar se há elementos repetidos
+
+frutas = ['maçã', 'banana', 'laranja', 'maçã', 'uva', 'maçã']
+ocorrencias = frutas.count('maçã')
+print(ocorrencias)  # Saída: 3
+
+--> O count() é um método que tem como objeivo contar o número de ocorrências de um determinado elemento na sequência.
+
 # Podemos adicionar elemento, utilizando a função .append() 
 
 print(lista_a)
@@ -193,6 +201,8 @@ a = [ 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 print(min(a))     # output: 1
 pint(max(a))      # output: 9
+
+
 
 
 

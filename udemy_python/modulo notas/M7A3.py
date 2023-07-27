@@ -127,9 +127,39 @@ print(carrinho)
 
 # Usar um dicionário (forma 3)
 
-protudo5 = {'nome': 'Playstation", 'quantidade': 1, preço:'2000
-produto6 = ['nome': 'X-box', 'quantidade': 1, 'preço':3000}
+protudo5 = {'nome': 'Playstation", 'quantidade': 1, preço:'2000'}
+produto6 = {'nome': 'X-box', 'quantidade': 1, 'preço': 3000}
+
+carrinho.append(produto5)
+carrinho.append(produto6)
+
+print(carrinho)
+
+'''
+O que acontece, é que nos outras coleções (lista, tupla) só vamos ter a informação bruta, já no dicionário o output vai sair chave/valor facilitando a identificação.
+Dessa forma, facilmente add ou remv produtos no carrinho e podemos ter certeza sobre cada informação.
+''
+
+# MÉTODOS de dicionários
+
+d = dict(a=1, b=2, c=3)
+
+d.clear()  # Limpar o dicionário (zerar dados)
+
+novo = d.copy()   # COPIAR os valores de um dicionário p/ outro
+print(novo)
+
+novo['d'] = 4 
+
+print(d)
+print(novo)
 
 
+novo = d    
+print(novo)
+novo['d'] = 4     # Os dois vão ser alterados shallow copy
+
+print(d)
+print(novo)
 
 
