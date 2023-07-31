@@ -43,7 +43,7 @@ print(lista_b)
 print(lista_a.count(1))
 print(lista_e.count('l'))
 
---> Para verificar se há elementos repetidos
+--> Para verificar se há ELEMENTOS REPETIDOS
 
 frutas = ['maçã', 'banana', 'laranja', 'maçã', 'uva', 'maçã']
 ocorrencias = frutas.count('maçã')
