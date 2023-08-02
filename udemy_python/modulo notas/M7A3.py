@@ -162,4 +162,59 @@ novo['d'] = 4     # Os dois vão ser alterados shallow copy
 print(d)
 print(novo)
 
+# ITERAR sobre dicionário 
+
+receita = {'jan': 100, 'fev': 200, 'mar': 300}
+
+for chave in receita:
+    print(chave)       # Output: jan, fev, mar
+
+for chave in receita:
+    print(receita[chave]) # Output: 100, 200, 300
+
+for chave in receita:
+    print(f"{chave} : {receita[chave]}
+
+# Output
+
+jan : 100
+fev : 200
+mar : 300
+
+# Para SABER as CHAVES do dicionário 
+
+print(receita.keys())
+
+for chave in receita.keys():
+    print(receita[chave])       
+
+# Acessando os valores
+
+print(receita.values())
+
+for valor in receita.values():
+    print(valor)
+
+# DESEMPACOTAMENTO DE DICIONÁRIO
+
+print(receita.items())
+
+for chave, in valor in receita.items():
+    print(f" chave:{chave} e valor:{valor}")
+
+output:
+
+chave = jan e valor = 100
+chave = fev e valor = 200
+chave = mar e valor = 300
+
+# Soma, valor MAX, MIN e tamanho
+
+print(sum(receita.values())
+print(max(receita.values())
+print(min(receita.values())
+
+
+
+
 
