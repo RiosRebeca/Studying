@@ -103,5 +103,85 @@ ou
 s.discard(2)
 print(s)      # Se o valor não for encontrado, nenhum erro é gerado.
 
+# COPIANDO um conjunto
+
+--> Deep copy
+
+novo = s.copy()
+print(novo)           # Output: {1, 2, 3}
+
+print(s)              # Outuput: {1, 2, 3, 4}
 
 
+--> São idependentes. Cria uma nova lista e copia todos os objetivosda lista original.
+
+
+--> Shallow copy
+
+novo = s
+novo.add(4()
+
+print(novo)           # Output: {1, 2, 3, 4}
+print(s)              # Output: {1, 2, 3, 4}
+
+--> os dois vão ser modificados porque (novo = s) e quando for printar novamente, as duas estarão alteradas.
+
+
+# REMOVER TODOS OS ITENS de um conjunto
+
+s.clear()
+print(s)              # Output: {}
+
+# MÉTODOS MATEMÁTICOS DE CONJUNTOS
+
+--> Imagine que temos dois conjuntos, um  contendo estudantes do curso python e utro do curso de java.
+
+estudantes_python = {'Marcos', 'Camille', 'Fagner', 'Pamella', 'Rebeca', 'Alex'}
+estudantes_java = {'Fernando', 'Gustavo', 'Fagner', 'Rebeca', 'Keven'}
+
+--> Veja que algunsalunos que estudam python também estudam java.
+--> Precisamos gerar um conjunto com nomes de estudantes únicos
+
+# Forma 1 - utilizando UNION
+
+unico1 = estudantes_python.union(estudantes_java)
+print(unicos1)
+
+# Forma 2 - Utilizando o caractere PIPE (|)
+
+unicos2 = estudantes_python | estudantes_java
+print(unicos2)
+
+--> Agora precisamos gerar um conjunto de estudantes que estão em AMBOS OS CONJUNTOS
+
+# Forma 1 - utilizando o INTERSECTION
+
+ambos1 = estudantes_python.intersection(estudantes_java)
+print(ambos1)
+
+# Forma 2 - utilizando o &
+
+ambos2 = estudantes_python & estudantes_java
+print(ambos2)
+
+--> Agora queremos gerar um conjunto de estudantes que ESTÃO EM UM, MAS NÃO ESTÃO EM OUTRO
+
+# Forma 1 - utilizando o DIFFERENCE
+
+so_python = estudantes_python.difference(estudantes_java)
+print(so_python)
+
+so_java = estudantes_vaja.difference(estudantes_python)
+print(so_java)
+
+
+# SOMA, VALOR MÁXIMO, MÍNIMO E TAMANHO
+
+--> Se os valores forem todos inteiros ou reais
+
+s = {1, 2, 3, 4, 5, 6}
+
+print(sum(s))
+print(max(s))
+print(min(s))
+print(len(s))

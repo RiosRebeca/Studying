@@ -186,6 +186,12 @@ ele vai printar camisa e calça porque camisa está na posição 0 e calça na p
 
 '''
 
+lista = ["maçã", "banana", "laranja", "uva"]
+
+for indice, elemento in enumerate(lista):
+    print(f"O elemento {elemento} está na posição {indice}")
+
+
 # Invertendo valores em uma lista 
 
 nomes = [ 'Geek', 'University']
