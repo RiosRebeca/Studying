@@ -13,7 +13,7 @@ while check == "NÃO":
     nome = input(f"INSIRA O NOME COMPLETO DO PACIENTE: ")
     data = input(f"INSIRA A DATA DE NASCIMENTO: ")
     numero = input("INSIRA O NÚMERO DO PACIENTE: ")
-    check = input("CONFIRME AS INFORMAÇÕES DO PACIENTE\n a) Digite SIM caso as informações estejam corretas;\n b) Digite NÃO caso alguma informação não esteja correta.\n  ")
+    check = input("CONFIRME AS INFORMAÇÕES DO PACIENTE.\n a) Digite SIM caso as informações estejam corretas;\n b) Digite NÃO caso alguma informação não esteja correta.\n  ")
      
 print("Prossiga preenchendo as perguntas com letras maiúsculas.") 
 
