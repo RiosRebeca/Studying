@@ -41,6 +41,12 @@ Em python podemos inclusive criar variáveis do tipop de uma função e executar
 
 OBS: Não precisamos necessariamente criar uma variável ára receber o retorno de uma função. Podemos passar a execurção da função para outras funções (como o print).
 
+# SOBRE A PALVRA RESERVADA RETURN
+
+1- Ela finaliza a unção, ou seja, ela sai da execução da função
+2- Podemos ter, em uma função, diferentes returns
+3- Podemos, em uma função, retornar qualquer tipo de dado, até mesmomúltiplos valores
+
 
 '''
 
@@ -96,6 +102,74 @@ quadrado_de_sete()
 
 print(f"Retorno: {quadrado_de_sete()}.")
 
-# Aqui ele vau retornar o 49 que é o resultado daquela operação 
+# Aqui ele vai retornar o 49 que é o resultado daquela operação 
 
 
+# CARA OU COROA USANDO FUNÇÃO
+
+from random inport random
+
+def joga_moeda():
+    valor = random()            # Gera um número pseudo-randômico entre 0 e 1
+    if valor > 0.5:
+        return 'cara'
+    return 'coroa'              # Aqui eu NÃO preciso de else
+
+print(joga_moeda())
+
+'''
+
+No console eu posso escrever:
+
+from funções import joga_moeda()
+
+--> Iss quer dizer que do meu arquivo onde tem essa função, eu vou importar e trazer pra onde e quero.
+--> Depois disso, eu executo a tarefa normalmente.
+
+
+# FUNÇÕES COM PARÂMETROS (de entrada)
+
+Se agnenete pensar num programa qualquer, geralmente temos:
+
+ENTRADA --> PROCESSAMENTO --> SAÍDA
+
+Se s gente pensar em uma função, já sabemos que temos:
+1- Não possuem entrada
+2- Não possuem saída;
+3- Possuem entrada mas não possuem saída;
+4- Não possuem entrada mas possuem saída;
+5- Possuem entrada e saída;
+
+'''
+
+# DEFAULT DEF
+
+
+def exponencial_teste(numero_teste, potencia_teste):
+    return numero_teste ** potencia_teste
+
+def exponencial(numero = 0, potencia = 1):
+    return numero ** potencia
+    
+print(exponencial_teste(4, 3))
+# print(exponencial_teste(4))
+
+'''
+ TypeError: exponencial_teste() missing 1 required positional argument: 'potencia_teste'
+'''
+print(exponencial(6, 2))
+print(exponencial(6))
+
+'''
+--> Se tiver um parâmetro, ele nao vai dar TypeError
+
+OBS: Em funções python, os parâmetrs com valores default (padrão) DEVEM SEMPRE ESTAR AO FINAL DA DECLARAÇÃO
+
+# ERRO!
+
+def teste(num=2, potencia):
+   return num ** potencia
+
+
+--> Isso não pode! O parametro que tem o valor default deve ser o último, o código não vai rodar se tiver asssim.
+'''
