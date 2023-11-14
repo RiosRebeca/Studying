@@ -15,7 +15,7 @@ print(f"O resultado é {res}")
 
 # OU
 
-def expo_2():
+def expo_2(*args):          # OU não definir nenhum parâmtro
    x_2 = int(input("INSIRA O VALOR DE X: "))
    z_2 = int(input("INSIRA O VALOR DE Z: "))
    return x_2 ** z_2
