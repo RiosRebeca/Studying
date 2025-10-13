@@ -1,0 +1,32 @@
+filme,sala,bilheteria,cidade,sessoes,data
+Aventura Cósmica,1,12500,São Paulo,4,2025-10-01
+Aventura Cósmica,2,9800,Rio de Janeiro,3,2025-10-01
+Aventura Cósmica,1,13400,São Paulo,4,2025-10-02
+Aventura Cósmica,3,8900,Curitiba,3,2025-10-03
+Romance em Paris,3,8700,São Paulo,3,2025-10-01
+Romance em Paris,4,9100,Belo Horizonte,3,2025-10-01
+Romance em Paris,5,9500,Curitiba,3,2025-10-03
+O Mistério do Tempo,5,15200,Rio de Janeiro,5,2025-10-01
+O Mistério do Tempo,2,14900,São Paulo,4,2025-10-01
+O Mistério do Tempo,5,15800,Rio de Janeiro,5,2025-10-02
+O Mistério do Tempo,4,15300,Belo Horizonte,5,2025-10-03
+Guerra dos Reinos,6,19300,Curitiba,5,2025-10-01
+Guerra dos Reinos,6,20500,Curitiba,5,2025-10-02
+Guerra dos Reinos,7,21200,São Paulo,5,2025-10-03
+O Mar Azul,7,11400,Belo Horizonte,4,2025-10-01
+O Mar Azul,7,12200,Belo Horizonte,4,2025-10-02
+O Mar Azul,8,11000,Curitiba,3,2025-10-01
+O Mar Azul,8,11800,Curitiba,3,2025-10-02
+Aventura Cósmica,2,9700,Rio de Janeiro,3,2025-10-02
+Aventura Cósmica,3,9900,Curitiba,3,2025-10-04
+Romance em Paris,3,8600,São Paulo,3,2025-10-02
+Romance em Paris,4,9300,Belo Horizonte,3,2025-10-02
+O Mistério do Tempo,2,14000,São Paulo,4,2025-10-02
+O Mistério do Tempo,5,16100,Rio de Janeiro,5,2025-10-03
+Guerra dos Reinos,7,21800,São Paulo,5,2025-10-04
+O Mar Azul,7,12500,Belo Horizonte,4,2025-10-03
+Aventura Cósmica,1,13600,São Paulo,4,2025-10-03
+Romance em Paris,5,9600,Curitiba,3,2025-10-04
+O Mistério do Tempo,4,15700,Belo Horizonte,5,2025-10-04
+Guerra dos Reinos,6,20800,Curitiba,5,2025-10-03
+O Mar Azul,8,12100,Curitiba,3,2025-10-03

@@ -75,3 +75,5 @@ Q24 Escreva uma função que gera um triângulo de altura e lados n e base 2*n-1
 '''
 
 
+
+

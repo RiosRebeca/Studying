@@ -55,6 +55,35 @@ primeiro eu digo o que eu quero, depois eu digo de onde vem.
 
 '''
 
+# DICTIONARY COMPREHENSION
+
+'''
+
+--> SINTAXE
+
+dicionario = {chave: valor for valor in iterável}
+
+
+'''
+
+
+squares = {x: x*x for x in range(1, 6)} 
+
+# OUTPUT: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+
+even_squares = {x: x*x for x in range(1, 6) if x % 2 == 0}
+
+# OUTPUT: {2: 4, 4: 16}
+
+
+numeros = [1, 2, 3, 4, 5, 6]
+res = {num: ('par' if num % 2 == 0 else 'impar') for num in numeros}
+
+print(res)
+
+
+
+
 
 
 

@@ -1,0 +1,31 @@
+id,nome,idade,cidade,gênero,plano,tempo_de_uso_meses,valor_mensal,reclamacoes
+1,Ana Souza,25,São Paulo,Feminino,Básico,6,39.90,0
+2,Bruno Lima,32,Rio de Janeiro,Masculino,Premium,24,99.90,2
+3,Carla Nunes,29,Curitiba,Feminino,Padrão,12,59.90,1
+4,Diego Santos,41,Porto Alegre,Masculino,Premium,36,99.90,3
+5,Elisa Moreira,22,Salvador,Feminino,Básico,4,39.90,0
+6,Felipe Rocha,34,Fortaleza,Masculino,Padrão,10,59.90,1
+7,Gabriela Pinto,27,Recife,Feminino,Premium,18,99.90,2
+8,Hugo Martins,39,Campinas,Masculino,Padrão,15,59.90,0
+9,Isabela Costa,31,Belo Horizonte,Feminino,Premium,20,99.90,4
+10,João Almeida,28,São Paulo,Masculino,Básico,5,39.90,0
+11,Karen Lopes,36,Rio de Janeiro,Feminino,Premium,25,99.90,1
+12,Lucas Fernandes,30,Curitiba,Masculino,Padrão,8,59.90,0
+13,Mariana Ribeiro,24,Porto Alegre,Feminino,Básico,3,39.90,0
+14,Nicolas Azevedo,42,Fortaleza,Masculino,Premium,40,99.90,3
+15,Olívia Castro,33,Salvador,Feminino,Padrão,14,59.90,1
+16,Paulo Menezes,29,Recife,Masculino,Básico,7,39.90,0
+17,Queila Duarte,38,Campinas,Feminino,Premium,28,99.90,2
+18,Rafael Teixeira,45,Belo Horizonte,Masculino,Padrão,16,59.90,1
+19,Sofia Cardoso,26,São Paulo,Feminino,Básico,6,39.90,0
+20,Thiago Pires,35,Rio de Janeiro,Masculino,Premium,22,99.90,2
+21,Úrsula Lopes,40,Curitiba,Feminino,Premium,30,99.90,1
+22,Vinícius Matos,23,Porto Alegre,Masculino,Básico,4,39.90,0
+23,Willian Barbosa,37,Fortaleza,Masculino,Padrão,18,59.90,1
+24,Xênia Farias,28,Salvador,Feminino,Básico,5,39.90,0
+25,Yuri Paiva,43,Recife,Masculino,Premium,35,99.90,3
+26,Zélia Carvalho,27,Campinas,Feminino,Padrão,9,59.90,0
+27,Amanda Brito,30,Belo Horizonte,Feminino,Básico,6,39.90,0
+28,Breno Oliveira,34,São Paulo,Masculino,Premium,20,99.90,2
+29,Clara Dias,25,Rio de Janeiro,Feminino,Padrão,11,59.90,1
+30,Daniel Freitas,39,Curitiba,Masculino,Premium,26,99.90,2

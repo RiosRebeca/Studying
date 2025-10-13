@@ -1,15 +1,9 @@
 print("ESPAÇO PARA TESTE")
 
-'''
-Q24 Escreva uma função que gera um triângulo de altura e lados n e base 2*n-1. Por exemplo, a saída para n = 6 seria:
-'''
+def soma():
+    return a + b
 
-def piramide(n):
-    for i in range(n):
-        altura = '@' * i
-        altura = ' ' * n
-        print(altura)
+numeros = [(1, 2, 3, 4), (10, 9, 8,  4, 5, 7, 6)]
 
-
-print(piramide(10))
-        
+teste = sorted(numeros, key=soma([0], [1]))
+print(teste)
