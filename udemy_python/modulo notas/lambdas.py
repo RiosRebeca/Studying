@@ -37,6 +37,6 @@ def fun_quadrada(a, b, c):
     return lambda x: a * x ** 2 + b * x + c
 
 
-resultado = fun_quadrada(2, 4, 8))  # Aqui eu defino o valor de a, b e c                                                                                                                                                                                                                                                                                                                                                                                                                              
+resultado = fun_quadrada(2, 4, 8)  # Aqui eu defino o valor de a, b e c                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 print(resultado(4))  # Aqui e defino o valor de x

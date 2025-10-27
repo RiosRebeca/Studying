@@ -26,15 +26,15 @@ lista = [0, 1, 2, 3, 4, 5]
 
 teste1 = list(map(quadrado, lista))
 
-print(teste1)
+print(f"Esse é o reultado de teste1: {teste1}")
 
 teste2 = list(map(lambda x: x**2, lista))
 
-print(teste2)
+print(f"Esse é o resultado de teste2: {teste2}")
     
 teste3 = list(map(str, lista))
 
-print(teste3)
+print(f"Esse é o resultado do teste3: {teste3}")
 
 import math      # Isso daqui é pra importar o valor pi
 
