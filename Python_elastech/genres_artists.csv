@@ -1,0 +1,935 @@
+,artist_name,genres
+0,Rage Against The Machine,"rap metal, rap rock, alternative metal, nu metal"
+1,System Of A Down,"nu metal, metal, alternative metal, rap metal, rock"
+2,Metallica,"metal, thrash metal, rock, heavy metal, hard rock"
+3,Dead Kennedys,"punk, hardcore punk, skate punk, proto-punk"
+4,The Hives,garage rock
+5,The Vines,garage rock
+6,Black Sabbath,"metal, heavy metal, rock, stoner rock, doom metal, hard rock"
+7,AC/DC,"rock, hard rock, classic rock, rock and roll"
+8,Alice In Chains,"grunge, post-grunge"
+9,Linkin Park,"nu metal, rap metal, rock, alternative metal"
+10,Ozzy Osbourne,"metal, glam metal, heavy metal, hard rock"
+11,The Verve,"britpop, shoegaze"
+12,Pink Floyd,"progressive rock, psychedelic rock, classic rock, art rock, rock"
+13,Oasis,"britpop, madchester"
+14,NAPA,
+15,Maroon 5,pop
+16,Balthazar,
+17,Olivia Dean,pop soul
+18,Lorde,
+19,Lola Young,
+20,Beyoncé,
+21,Lizzo,
+22,Alabama Shakes,
+23,Corinne Bailey Rae,
+24,Destiny Salvation,
+25,Diana Ross,"motown, disco"
+26,Cheryl Lynn,"disco, post-disco"
+27,Miley Cyrus,
+28,Artist Invisible,
+29,Marina Sena,"brazilian pop, nova mpb"
+30,MC Thaizinha,"brega funk, brazilian funk, funk carioca"
+31,Nectar Woode,
+32,Dojo Cuts,retro soul
+33,Shawn Mendes,
+34,Alanis Morissette,
+35,Thee Sacred Souls,retro soul
+36,Bob Marley & The Wailers,"reggae, roots reggae"
+37,Pale Jay,retro soul
+38,Boogarins,"neo-psychedelic, nova mpb, psychedelic rock"
+39,Hajaj,retro soul
+40,Jungle,
+41,Parcels,indie soul
+42,Arlo Parks,
+43,Jr Thomas & The Volcanos,"rocksteady, reggae, retro soul, roots reggae"
+44,The Rolling Stones,"classic rock, rock"
+45,Tim Maia,mpb
+46,Jalen Ngonda,retro soul
+47,Jorge Mautner,mpb
+48,Jorge Ben Jor,"mpb, bossa nova, samba, brazilian jazz"
+49,Edward Sharpe & The Magnetic Zeros,
+50,The Velvet Underground,"proto-punk, art rock"
+51,Geraldo Azevedo,"mpb, forró tradicional, forró"
+52,Erasmo Carlos,"mpb, brazilian rock"
+53,Bakar,
+54,Manu Chao,latin alternative
+55,Devendra Banhart,
+56,Russo Passapusso,nova mpb
+57,Djavan,"mpb, bossa nova"
+58,Os Originais Do Samba,"samba, pagode, mpb"
+59,Camille Yarbrough,
+60,Otis Redding,"soul, motown, classic soul, soul blues"
+61,Marvin Gaye,"motown, classic soul, soul, northern soul, quiet storm"
+62,Brenton Wood,
+63,Bill Withers,"soul, classic soul, motown"
+64,Stealers Wheel,
+65,Serginho Meriti,samba
+66,Elton John,
+67,Martinho Da Vila,"samba, pagode, mpb"
+68,Arlindo Cruz,"samba, pagode, mpb"
+69,Daryl Hall & John Oates,"yacht rock, soft rock"
+70,Red Hot Chili Peppers,"funk rock, alternative rock, rock"
+71,Amy Winehouse,
+72,Sharon Jones & The Dap-Kings,"retro soul, soul, funk"
+73,Cartola,"samba, mpb, bossa nova"
+74,Chico Buarque,"mpb, bossa nova, samba, brazilian jazz"
+75,Nelson Sargento,samba
+76,St. Paul & The Broken Bones,retro soul
+77,Paulinho Da Viola,"samba, mpb, bossa nova"
+78,George Benson,"smooth jazz, yacht rock, jazz funk, soul jazz"
+79,Jamiroquai,"acid jazz, funk"
+80,Lenny Kravitz,
+81,Queen,"classic rock, rock, glam rock"
+82,Jack Johnson,surf rock
+83,Maria Bethânia,"mpb, samba, bossa nova, axé"
+84,"Earth, Wind & Fire","funk, disco"
+85,Jorge Aragão,"samba, pagode"
+86,Marquinhos Pqd,
+87,Alcione,"samba, pagode, mpb"
+88,sombr,
+89,David Bowie,"glam rock, art rock"
+90,T. Rex,"glam rock, proto-punk"
+91,Johnny Nash,
+92,Toots & The Maytals,"reggae, rocksteady, ska, roots reggae, dub"
+93,Ziggy Marley,"reggae, roots reggae"
+94,The Teskey Brothers,"retro soul, soul blues, blues"
+95,Yaya Bey,
+96,Victoria Monét,alternative r&b
+97,Liniker,"nova mpb, mpb, brazilian pop"
+98,Ben Harper And The Innocent Criminals,
+99,Ella Grace,
+100,LEISURE,indie soul
+101,Still Woozy,bedroom pop
+102,Menahan Street Band,retro soul
+103,Lee Fields & The Expressions,"retro soul, soul, funk"
+104,Darondo,
+105,Durand Jones & The Indications,retro soul
+106,Jungle Rootz,"dubstep, dub, bass music"
+107,Wilco,"alt country, americana, indie rock"
+108,El Mató a un Policía Motorizado,"argentine rock, latin indie, latin rock"
+109,Noel Gallagher's High Flying Birds,"britpop, madchester"
+110,Monophonics,retro soul
+111,Arc De Soleil,
+112,Carole King,"singer-songwriter, folk rock"
+113,LCD Soundsystem,"alternative dance, new rave"
+114,Death Cab for Cutie,
+115,Ezra Collective,"jazz rap, nu jazz, indie soul"
+116,The Kills,garage rock
+117,Emmy Curl,
+118,Santiago Motorizado,argentine rock
+119,Mi Amigo Invencible,"latin indie, latin folk"
+120,The Lumineers,"folk pop, indie folk"
+121,José González,indie folk
+122,Morbo y Mambo,"latin afrobeats, latin indie"
+123,Curtis Harding,retro soul
+124,Incubus,"nu metal, funk rock, alternative metal, alternative rock"
+125,Explosions In The Sky,post-rock
+126,Flea,funk rock
+127,Skinshape,
+128,Milky Chance,
+129,Portugal. The Man,
+130,alt-J,"indie, indie rock"
+131,Unknown Mortal Orchestra,neo-psychedelic
+132,Franc Moody,nu disco
+133,Electric Guest,
+134,Roosevelt,nu disco
+135,Talking Heads,"new wave, post-punk"
+136,Bloc Party,indie rock
+137,Black Kids,
+138,Of Monsters and Men,folk pop
+139,CAKE,alternative rock
+140,La Roux,
+141,MGMT,indie
+142,The Strokes,"garage rock, indie rock, alternative rock"
+143,Franz Ferdinand,indie rock
+144,Klaxons,"new rave, alternative dance, indie"
+145,Phoenix,indie
+146,Arctic Monkeys,"indie, garage rock"
+147,The Killers,alternative rock
+148,Justice,"french house, new rave"
+149,The Black Keys,"blues rock, garage rock, modern blues, rock"
+150,Blur,"britpop, madchester, alternative rock"
+151,The Kooks,"indie, indie rock"
+152,The Ting Tings,alternative dance
+153,Muse,"alternative rock, rock"
+154,Kings of Leon,
+155,New Order,"new wave, synthpop, post-punk, madchester"
+156,Julian Casablancas,
+157,The Smiths,"new wave, madchester, jangle pop"
+158,Artist Joe Smith,
+159,Kaiser Chiefs,"britpop, indie rock"
+160,Two Door Cinema Club,"indie, indie rock"
+161,The Fratellis,
+162,Vampire Weekend,"indie, baroque pop"
+163,Yeah Yeah Yeahs,indie rock
+164,The Cure,"new wave, post-punk, gothic rock, darkwave"
+165,The Cardigans,swedish pop
+166,Ms. Lauryn Hill,neo soul
+167,Twenty One Pilots,
+168,Becky Hill,
+169,Sublime,"reggae rock, ska punk, ska"
+170,Empire Of The Sun,
+171,Cage The Elephant,
+172,WALK THE MOON,
+173,Tame Impala,"neo-psychedelic, indie"
+174,Copacabana Club,
+175,RAC,
+176,Peter Bjorn and John,indie
+177,Passion Pit,indie
+178,Vance Joy,folk pop
+179,Olly Alexander (Years & Years),
+180,Miike Snow,alternative dance
+181,Hot Chip,"alternative dance, new rave, indie dance"
+182,Fall Out Boy,"emo, pop punk"
+183,Tove Lo,
+184,Echosmith,
+185,Sia,
+186,Jessie J ft. Ariana Grande & Nicki Minaj,
+187,The Weeknd,
+188,OneRepublic,soft pop
+189,Nicki Minaj,
+190,Zara Larsson,
+191,Ellie Goulding,
+192,Drake,rap
+193,One Direction,
+194,Foster The People,
+195,Lana Del Rey,
+196,Joy Division,"post-punk, new wave, gothic rock, darkwave, madchester, cold wave"
+197,Lou de la Falaise,"french indie pop, french pop"
+198,Aeris Roves,
+199,Antonio Carlos Jobim Miucha,bossa nova
+200,Gal Costa,"mpb, bossa nova, brazilian jazz"
+201,Miúcha,"mpb, bossa nova, brazilian jazz"
+202,Rita Lee,"mpb, brazilian rock"
+203,Marisa Monte,"mpb, nova mpb"
+204,Gal Costa & Caetano Veloso,
+205,Milton Nascimento,"mpb, bossa nova, brazilian jazz"
+206,Lô Borges,"mpb, brazilian jazz"
+207,Adriana Calcanhotto,"mpb, samba, nova mpb"
+208,Gilsons,"nova mpb, mpb"
+209,Próxima Parada,
+210,Caetano Veloso,"mpb, bossa nova, samba"
+211,Gilberto Gil,"mpb, bossa nova, forró tradicional, samba, brazilian jazz"
+212,Vinícius de Moraes,"bossa nova, mpb, brazilian jazz, samba"
+213,Johnny Hooker,"nova mpb, mpb, brazilian pop"
+214,Los Sebosos Postizos,nova mpb
+215,Feist,
+216,H.E.R.,r&b
+217,Phoebe Bridgers,
+218,Jorja Smith,
+219,SZA,r&b
+220,Lianne La Havas,"alternative r&b, soul, pop soul"
+221,Kali Uchis,
+222,Florence + The Machine,baroque pop
+223,Aldous Harding,ambient folk
+224,The Police,
+225,The Clash,punk
+226,Captain & Tennille,"yacht rock, soft rock"
+227,Dire Straits,classic rock
+228,Iggy Pop,"proto-punk, glam rock"
+229,The Beatles,"classic rock, psychedelic rock"
+230,Men At Work,
+231,The Raconteurs,"garage rock, alternative rock"
+232,The Who,"classic rock, rock"
+233,Fatboy Slim,big beat
+234,Blondie,
+235,R.E.M.,"jangle pop, alternative rock, rock"
+236,Depeche Mode,"new wave, synthpop, darkwave"
+237,The Beach Boys,baroque pop
+238,Pixies,alternative rock
+239,Echo & the Bunnymen,"new wave, post-punk, gothic rock, darkwave"
+240,The White Stripes,"garage rock, blues rock, rock, alternative rock"
+241,The Kinks,"proto-punk, baroque pop"
+242,Prince,"funk, funk rock"
+243,The Offspring,"punk, skate punk"
+244,Bee Gees,disco
+245,Michael Jackson,
+246,Chico Chico,"nova mpb, mpb"
+247,The Trammps,"disco, philly soul, northern soul"
+248,Anita Ward,disco
+249,Billy Idol,
+250,Tears For Fears,"new wave, synthpop"
+251,Moby,"downtempo, trip hop"
+252,Luiz Gonzaga,"forró tradicional, forró, mpb"
+253,Clara Nunes,"samba, mpb, forró tradicional, pagode, forró, axé"
+254,Alceu Valença,"mpb, forró tradicional, forró"
+255,Jorge de Altinho,"forró tradicional, forró"
+256,Dominguinhos,"forró tradicional, forró, mpb"
+257,Falamansa,"forró, forró tradicional"
+258,Forroçacana,"forró tradicional, forró"
+259,Zé Ramalho,"mpb, forró tradicional, sertanejo tradicional, forró"
+260,Os 3 do Nordeste,"forró tradicional, forró"
+261,Genival Lacerda,"forró tradicional, forró, brega"
+262,Trio Nordestino,"forró tradicional, forró"
+263,Rastapé,"forró tradicional, forró"
+264,Trio Macaíba,"forró tradicional, forró"
+265,Shuggie Otis,
+266,Luiz Melodia,"samba, mpb"
+267,Mestrinho,"forró, forró tradicional, nova mpb"
+268,João Gomes,"piseiro, forró, sertanejo, arrocha, brega"
+269,Miller Blue,
+270,Honey Mooncie,
+271,bLAck pARty,"indie soul, alternative r&b"
+272,Metronomy,"new rave, alternative dance"
+273,Frank Ocean,
+274,Eagle-Eye Cherry,
+275,Black Alien,"brazilian hip hop, boom bap"
+276,Jitwam,"jazz house, lo-fi house, indie jazz"
+277,Damien Jurado,indie folk
+278,Emílio Santiago,"mpb, samba, bossa nova"
+279,Buffalo Springfield,"folk rock, country rock"
+280,DOPE LEMON,
+281,Labi Siffre,
+282,Conociendo Rusia,"latin indie, argentine rock"
+283,Oh He Dead,retro soul
+284,Joy Crookes,alternative r&b
+285,Bobby Hebb,"northern soul, classic soul"
+286,Men I Trust,"bedroom pop, indie pop"
+287,Young the Giant,
+288,Terno Rei,"nova mpb, brazilian rock"
+289,The Head And The Heart,"indie folk, folk pop, folk"
+290,Vanguart,"nova mpb, mpb, brazilian rock"
+291,Jadu Heart,indie soul
+292,FARR,
+293,Jordan Rakei,"indie soul, neo soul"
+294,Liniker e os Caramelows,"nova mpb, mpb"
+295,Big Thief,
+296,Mitski,
+297,The Smile,art rock
+298,Adi Oasis,"indie soul, retro soul, neo soul"
+299,Lou Reed,"glam rock, proto-punk, art rock"
+300,Ale Sater,nova mpb
+301,corn wave,post-punk
+302,Hozier,
+303,El Petit De Cal Eril,
+304,Ben Harper,surf rock
+305,Matt Costa,surf rock
+306,Mumford & Sons,"folk, indie folk, folk rock"
+307,Beirut,"baroque pop, indie folk"
+308,Lily Allen,
+309,Milo Greene,indie folk
+310,Little Joy,
+311,Arcade Fire,"indie rock, baroque pop"
+312,Green Day,"punk, pop punk"
+313,Sean Heathcliff,
+314,The Shins,"indie, indie pop"
+315,Arsenal,
+316,Autumn's Grey Solace,"shoegaze, dream pop"
+317,Beastie Boys,"rap rock, old school hip hop, east coast hip hop, hip hop"
+318,Childish Gambino,
+319,Glue Trip,
+320,Liam Gallagher,"britpop, madchester"
+321,Creedence Clearwater Revival,"classic rock, southern rock, country rock"
+322,Harry Styles,
+323,MIKA,
+324,Beady Eye,"britpop, madchester"
+325,Foo Fighters,"rock, post-grunge, alternative rock, grunge"
+326,The All-American Rejects,"pop punk, emo"
+327,CPM 22,"brazilian rock, brazilian pop"
+328,ROSALÍA,latin
+329,John Frusciante,
+330,Bon Iver,
+331,Westerman,
+332,Radiohead,"art rock, alternative rock"
+333,Selvagens à Procura de Lei,"brazilian rock, nova mpb"
+334,Glass Animals,
+335,Black Pumas,retro soul
+336,Whitney Houston,
+337,The Whitest Boy Alive,
+338,Macy Gray,
+339,Vivendo do Ócio,"brazilian rock, nova mpb"
+340,Bombay Bicycle Club,"indie rock, indie"
+341,Two Another,indie soul
+342,Pearl Jam,"grunge, rock, post-grunge"
+343,Omar Apollo,bedroom pop
+344,Nation of Language,synthpop
+345,The Jackson 5,"motown, christmas"
+346,Sister Sledge,"disco, philly soul"
+347,Stevie Wonder,"motown, classic soul, soul"
+348,Sylvester,"disco, hi-nrg, post-disco"
+349,Gloria Gaynor,disco
+350,The Weather Girls,
+351,Candi Staton,
+352,Tavares,"disco, philly soul"
+353,Aretha Franklin,"soul, motown, classic soul, jazz blues"
+354,Betty Wright,"classic soul, soul"
+355,KC & The Sunshine Band,disco
+356,Kool & The Gang,"disco, funk"
+357,Boney M.,disco
+358,Tom Jones,
+359,The Libertines,"britpop, garage rock, indie rock, indie"
+360,artistmusical,
+361,"He Was an Artist, She Was a Carpenter","midwest emo, math rock"
+362,Nina Simone,"vocal jazz, jazz blues, soul, soul jazz, jazz, blues"
+363,Rihanna,
+364,Norah Jones,
+365,Solange,"alternative r&b, neo soul"
+366,Joss Stone,neo soul
+367,Lady Wray,retro soul
+368,Gwen Bunn,alternative r&b
+369,Band of Horses,
+370,The Naked And Famous,
+371,White Lies,
+372,Cold War Kids,
+373,Grizzly Bear,"indie, baroque pop, indie rock"
+374,Fleet Foxes,"indie folk, folk, indie"
+375,Lykke Li,
+376,Pixote,"pagode, samba"
+377,Péricles,"pagode, samba"
+378,LUDMILLA,"pagode, brazilian pop, funk pop, brazilian funk, pagode baiano, funk carioca"
+379,Grupo Revelação,"pagode, samba"
+380,Marília Mendonça,"sertanejo, sertanejo universitário, arrocha, forró"
+381,Só Pra Contrariar,"pagode, samba, axé"
+382,Jorge & Mateus,"sertanejo, sertanejo universitário, arrocha, agronejo"
+383,Grupo Fundo De Quintal,"samba, pagode"
+384,Mumuzinho,"pagode, samba"
+385,Exaltasamba,"pagode, samba"
+386,Daniela Mercury,"axé, pagode baiano, mpb"
+387,Olodum,"axé, pagode baiano"
+388,Banda Eva,"axé, pagode baiano"
+389,Bamdamel,"axé, pagode baiano"
+390,Fafá de Belém,"mpb, sertanejo tradicional, brega"
+391,Diogo Nogueira,"samba, pagode, mpb"
+392,Timbalada,"axé, pagode baiano"
+393,Bom Gosto,"pagode, samba"
+394,Márcio Arte Popular,
+395,Turma do Pagode,"pagode, samba"
+396,Devon Gilfillian,retro soul
+397,Daniel Caesar,
+398,Secos & Molhados,"mpb, brazilian rock"
+399,Scalene,"brazilian rock, nova mpb"
+400,O Terno,"nova mpb, mpb"
+401,Kehlani,
+402,Leon Bridges,retro soul
+403,Gorillaz,
+404,Tim Bernardes,"nova mpb, mpb"
+405,Manel Beats,boom bap
+406,GIVĒON,r&b
+407,Baco Exu do Blues,"brazilian hip hop, brazilian trap"
+408,Rincon Sapiência,"brazilian hip hop, brazilian trap"
+409,Criolo,"brazilian hip hop, samba, nova mpb, mpb"
+410,Marcelo D2,"brazilian hip hop, samba, brazilian rock"
+411,Kendrick Lamar,"hip hop, west coast hip hop"
+412,Emicida,"brazilian hip hop, nova mpb, portuguese hip hop"
+413,Ray Charles,"jazz blues, soul, soul blues, blues, classic soul, vocal jazz"
+414,Lady Gaga,"art pop, pop"
+415,Lucas Cordeiro,tecnobrega
+416,Nenhum De Nós,"brazilian rock, brazilian pop, mpb, pop rock"
+417,Seu Jorge,"mpb, samba, pagode"
+418,Vespas Mandarinas,brazilian rock
+419,El Cuarteto De Nos,"cuarteto, argentine rock, latin rock, rock en español"
+420,Duck Sauce,disco house
+421,Dingo Bells,nova mpb
+422,Maglore,"nova mpb, brazilian rock"
+423,Tagua Tagua,nova mpb
+424,Mimmi Bangoura,
+425,Mac DeMarco,"indie, lo-fi indie"
+426,Luca Bocci,latin indie
+427,Lamparina,nova mpb
+428,Raul Seixas,"brazilian rock, mpb, brazilian pop"
+429,Cachorro Grande,"brazilian rock, mpb, brazilian pop"
+430,Frejat,"mpb, brazilian rock, brazilian pop"
+431,Nação Zumbi,"brazilian rock, mpb, nova mpb"
+432,Neil Young,"classic rock, folk rock, singer-songwriter, roots rock"
+433,Michael Kiwanuka,soul
+434,Etta James,"soul, jazz blues, soul blues, blues, vocal jazz"
+435,"Francisco, el Hombre","nova mpb, mpb"
+436,Artist Ko Ensemble,
+437,Robohands,"indie jazz, nu jazz"
+438,Dua Lipa,pop
+439,The Carters,
+440,Kanye West,rap
+441,"Tyler, The Creator",
+442,Rihanna Ft Mikky Ekko,
+443,"50 cent, Snoop Dogg, 2 pac, the game, san quinn",
+444,Gary Clark Jr.,"modern blues, blues rock, blues, soul blues"
+445,Curumin,nova mpb
+446,Bandalos Chinos,"latin indie, mexican indie, latin alternative"
+447,Funkadelic,"funk, funk rock"
+448,Sam Cooke,"motown, soul, classic soul"
+449,Gil Scott-Heron,"spoken word, jazz funk"
+450,Ella Fitzgerald & Louis Armstrong,"swing music, vocal jazz, big band, jazz"
+451,Elton Medeiros,samba
+452,Commodores,"motown, classic soul"
+453,DUDA BEAT,"nova mpb, brazilian pop, mpb"
+454,Julio Secchin,"nova mpb, mpb"
+455,Rosa Neon,"nova mpb, brazilian pop"
+456,BaianaSystem,"nova mpb, brazilian pop, axé"
+457,Academia da Berlinda,nova mpb
+458,Chico Science e Nação Zumbi,brazilian rock
+459,Luiza Lian,"nova mpb, axé"
+460,Biltre,nova mpb
+461,Serguei,brazilian rock
+462,John Moods,
+463,Os Mutantes,"mpb, brazilian rock, psychedelic rock"
+464,The Brainrot World,
+465,Bob Dylan,"folk rock, folk, singer-songwriter, roots rock, country rock"
+466,Sonic Youth,"noise rock, grunge, alternative rock, post-punk, shoegaze"
+467,Jimi Hendrix,"psychedelic rock, classic rock, acid rock, blues rock"
+468,Cream,"classic rock, psychedelic rock, acid rock, blues rock"
+469,Fleetwood Mac,"classic rock, yacht rock, soft rock"
+470,The Doors,"psychedelic rock, classic rock, acid rock"
+471,The Animals,classic rock
+472,Khruangbin,neo-psychedelic
+473,"Que coisa é essa, o Amô?",nova mpb
+474,Satan's Rats,"proto-punk, punk, power pop"
+475,Betty Davis,"funk rock, funk"
+476,Grateful Dead,"jam band, psychedelic rock, acid rock"
+477,Robert Finley,"blues, soul blues, modern blues, southern gothic"
+478,The Zombies,"baroque pop, psychedelic rock"
+479,Little Richard,"rockabilly, rock and roll, doo-wop, boogie-woogie"
+480,Feng Suave,bedroom pop
+481,The xx,
+482,Silva,"nova mpb, mpb, brazilian pop"
+483,Moreno Veloso,"mpb, nova mpb, bossa nova"
+484,Fino Coletivo,nova mpb
+485,Céu,"nova mpb, mpb"
+486,Ana Frango Elétrico,"nova mpb, mpb"
+487,Los Hermanos,"brazilian rock, mpb, nova mpb, brazilian pop"
+488,Marina Lima,"mpb, brazilian rock, brazilian pop"
+489,Cícero,"nova mpb, mpb"
+490,Ebo Taylor,"highlife, afrobeat, afropop"
+491,Chico César,"mpb, forró tradicional, nova mpb, forró"
+492,Fresno,"brazilian rock, emo"
+493,Queens of the Stone Age,"stoner rock, alternative rock"
+494,Jack White,blues rock
+495,Foals,indie
+496,Counting Crows,
+497,KT Tunstall,
+498,Eddie Vedder,
+499,Travis Scott,rap
+500,Paolo Nutini,
+501,Donavon Frankenreiter,surf rock
+502,Karaoke - Santana & Rob Thomas,
+503,Robbie Williams,
+504,"""Karaoke - Santana, Michelle Branch""",
+505,Rita Lee & Roberto De Carvalho,
+506,The Stone Roses,"madchester, britpop"
+507,Yo La Tengo,"dream pop, slowcore"
+508,Weezer,alternative rock
+509,Band Of Skulls,garage rock
+510,Paula Cole,
+511,Bad Bunny,"reggaeton, trap latino, urbano latino, latin"
+512,Grupo Menos É Mais,"pagode, samba"
+513,Sam Fender,
+514,Barbi Recanati,"latin indie, argentine rock"
+515,Tulsa,
+516,Bestia Bebé,"latin indie, latin rock, argentine rock"
+517,Onda Vaga,"latin folk, latin alternative"
+518,Viva Suecia,indie
+519,Los Espiritus,"latin indie, argentine rock, latin rock, latin alternative, neo-psychedelic"
+520,Las Sombras,bolero
+521,Poli y Prietto,"bolero, latin folk"
+522,La Femme,"french indie pop, french pop, french house"
+523,Isla de Caras,"latin indie, latin alternative, mexican indie"
+524,Usted Señalemelo,"latin indie, argentine rock"
+525,Anna Roig i L’ombre de ton chien,
+526,Antònia Font,
+527,Jósean Log,"mexican indie, latin indie"
+528,Socunbohemio,
+529,Cássia Eller,"mpb, brazilian rock, brazilian pop"
+530,Tom Zé,mpb
+531,Elis Regina,"mpb, bossa nova, brazilian jazz, samba"
+532,Tribalistas,"mpb, nova mpb"
+533,Dinia,"stutter house, afro house"
+534,Belchior,mpb
+535,Wilson Simonal,"mpb, samba, bossa nova"
+536,Jards Macalé,mpb
+537,Banda Black Rio,"brazilian jazz, jazz funk"
+538,Os Brazoes,"brazilian jazz, bossa nova"
+539,Gonzaguinha,"mpb, samba"
+540,Arnaldo Antunes,"mpb, nova mpb, brazilian rock"
+541,Marlena Shaw,"northern soul, soul"
+542,The Staple Singers,"soul, motown, classic soul"
+543,James Brown,"funk, soul, motown, classic soul"
+544,Otis Brown,northern soul
+545,Al Green,"soul, classic soul, motown, soul blues"
+546,The Temptations,"motown, classic soul, soul"
+547,Jon Batiste,
+548,Sam & Dave,"motown, soul, classic soul"
+549,Sly & The Family Stone,"funk, motown, classic soul, funk rock, soul"
+550,The James Hunter Six,retro soul
+551,Jordan Mackampa,
+552,Ann Peebles,"soul, soul blues, classic soul"
+553,Malted Milk,"soul blues, retro soul, pop soul"
+554,Madeleine Peyroux,"french jazz, vocal jazz, jazz"
+555,daydream Masi,
+556,The Arcs,
+557,Trundles artist development,
+558,Otis Kane,"retro soul, indie r&b"
+559,Kings of Convenience,
+560,Rhye,
+561,Phill Veras,"nova mpb, mpb"
+562,Ainda,"latin indie, latin folk"
+563,Os Tincoãs,"axé, samba"
+564,Luedji Luna,"nova mpb, afro house"
+565,Mateus Aleluia,axé
+566,Douglas Germano,"nova mpb, samba, bossa nova"
+567,Josyara,nova mpb
+568,Juçara Marçal e Kiko Dinucci,"axé, nova mpb"
+569,Bahamas,
+570,The Growlers,surf rock
+571,Nelly Furtado,
+572,Ne-Yo,
+573,Justin Timberlake,
+574,Redd feat. Akon & Snoop Dogg,
+575,The Pussycat Dolls,
+576,Avril Lavigne,
+577,Mariah Carey,christmas
+578,"50 Cent, Tony Yayo, Olivia, Lloyd Banks",
+579,Jennifer Lopez,
+580,Black Eyed Peas,
+581,Outkast,"southern hip hop, hip hop"
+582,Gwen Stefani,
+583,Fergie,
+584,Britney Spears,pop
+585,Taio Cruz,
+586,"""Karaoke - Christina Aguilera, Lil' Kim, Mya, Pink""",
+587,JoJo,
+588,Made Famous By Eminem & Rihanna,
+589,Kesha,
+590,Christina Aguilera,
+591,Unknown Artist - Knowone,dub techno
+592,Shakira,latin pop
+593,JAY-Z,"hip hop, east coast hip hop, rap"
+594,Vanessa Carlton,
+595,Backstreet Boys,
+596,3OH!3,
+597,David Guetta ft. Flo Rida,
+598,No Doubt,
+599,Perlla,funk melody
+600,Marjorie Estiano,"brazilian pop, mpb"
+601,The Calling,pop rock
+602,50 Cent,"east coast hip hop, old school hip hop"
+603,USHER,r&b
+604,Pitbull,
+605,Justin Bieber,
+606,Spice Girls,
+607,MC Leozinho ZS,"funk consciente, brazilian funk, trap funk"
+608,Mc Andinho,"funk melody, funk carioca, miami bass, brazilian funk"
+609,MC Koringa,"funk melody, brazilian funk, funk carioca"
+610,Nickelback,"post-grunge, rock"
+611,Sugar Ray,
+612,*NSYNC,
+613,WILLOW,
+614,Natasha Bedingfield,
+615,Diddy Featuring Keyshia Cole,
+616,Vanessa Hudgens,
+617,"Made famous by David Guetta feat, Kelly Rowland",
+618,James Morrison,
+619,Keane,
+620,Dido,
+621,Audioslave,"grunge, post-grunge, alternative metal"
+622,Hoobastank,nu metal
+623,Adele,soft pop
+624,Ashlee Simpson,bubblegum pop
+625,Kelly Clarkson,christmas
+626,Leona Lewis,
+627,The Fray,
+628,Sean Kingston,
+629,Cobra Starship,
+630,Natalie Imbruglia,
+631,Colbie Caillat,
+632,Armandinho,"reggae, mpb"
+633,Chimarruts,"reggae, mpb"
+634,Natiruts,"reggae, mpb, roots reggae"
+635,The Cranberries,
+636,Jonas Brothers,
+637,Mary J. Blige,r&b
+638,Matchbox Twenty,post-grunge
+639,Joan Osborne,
+640,Faith Hill,country
+641,Morcheeba,"trip hop, downtempo"
+642,Jamie Cullum,"vocal jazz, jazz"
+643,Kylie Minogue,dance pop
+644,Soweto Gospel Choir,"african gospel, gospel"
+645,Os Travessos,"pagode, samba"
+646,Molejo,"pagode, samba, axé"
+647,Os Morenos,"pagode, samba, axé"
+648,Thiaguinho,"pagode, samba"
+649,Raça Negra,"pagode, samba"
+650,Luan Santana,"sertanejo, sertanejo universitário, arrocha"
+651,Zé Neto & Cristiano,"sertanejo, sertanejo universitário, arrocha, agronejo"
+652,Maiara & Maraisa,"sertanejo, sertanejo universitário, piseiro"
+653,Matheus & Kauan,"sertanejo, sertanejo universitário, arrocha, agronejo"
+654,Beth Carvalho,"samba, pagode, mpb"
+655,Wesley Safadão,"forró, sertanejo, piseiro, arrocha, sertanejo universitário, brega, seresta"
+656,Gusttavo Lima,"sertanejo, sertanejo universitário, arrocha, agronejo, piseiro, forró"
+657,Henrique & Juliano,"sertanejo, sertanejo universitário, arrocha, agronejo"
+658,João Bosco & Vinícius,"sertanejo, sertanejo universitário, arrocha, agronejo, sertanejo tradicional"
+659,Simone & Simaria,"sertanejo, sertanejo universitário, forró, arrocha, brazilian pop"
+660,Marcos & Belutti,"sertanejo, sertanejo universitário"
+661,Henrique & Diego,"sertanejo, sertanejo universitário, arrocha"
+662,Tierry,"arrocha, piseiro, forró, sertanejo, brega, seresta, sertanejo universitário"
+663,Os Barões Da Pisadinha,"piseiro, forró, sertanejo, arrocha, brega, tecnobrega, agronejo, sertanejo universitário"
+664,Zé Vaqueiro,"piseiro, forró, sertanejo, arrocha, brega, seresta"
+665,Dilsinho,"pagode, samba, sertanejo, piseiro"
+666,Dona Ivone Lara,"samba, pagode, mpb"
+667,Skank,"brazilian rock, mpb, brazilian pop, pop rock"
+668,Nando Reis,"mpb, brazilian rock, brazilian pop, nova mpb"
+669,Barão Vermelho,"brazilian rock, mpb, brazilian pop"
+670,Legião Urbana,"brazilian rock, mpb, brazilian pop"
+671,Titãs,"brazilian rock, mpb, brazilian pop, pop rock"
+672,Os Paralamas Do Sucesso,"brazilian rock, mpb, brazilian pop, latin rock, pop rock"
+673,Cazuza,"mpb, brazilian rock, brazilian pop"
+674,Engenheiros Do Hawaii,"brazilian rock, mpb, brazilian pop, pop rock"
+675,Zélia Duncan,"mpb, samba, nova mpb, brazilian pop"
+676,Charlie Brown Jr.,"brazilian rock, mpb, brazilian pop"
+677,Irama,
+678,Ultraje a Rigor,"brazilian rock, brazilian pop, mpb"
+679,Pepeu Gomes,"mpb, brazilian pop, axé, brazilian rock"
+680,Nando Reis & Os Infernais,
+681,Camisa de Vênus,"brazilian rock, brazilian pop"
+682,Blitz,"brazilian rock, mpb, brazilian pop"
+683,Nirvana,"grunge, rock"
+684,Silverchair,"grunge, post-grunge"
+685,Soundgarden,"grunge, post-grunge, hard rock"
+686,Yellowcard,"pop punk, punk, emo"
+687,Led Zeppelin,"classic rock, rock, hard rock, rock and roll"
+688,Royal Blood,"garage rock, rock"
+689,Simple Plan,"pop punk, punk, emo"
+690,blink-182,"pop punk, punk, rock, skate punk, emo"
+691,Hateen,"brazilian rock, melodic hardcore, emo"
+692,Evanescence,alternative metal
+693,Good Charlotte,"pop punk, punk, emo"
+694,My Chemical Romance,"emo, pop punk"
+695,Jimmy Eat World,"emo, pop punk"
+696,Sum 41,"pop punk, punk, skate punk"
+697,Sabonetes,"brazilian rock, nova mpb"
+698,Cidadão Instigado,"nova mpb, brazilian rock"
+699,Xênia França,"nova mpb, axé"
+700,Irmãs de Pau,ballroom vogue
+701,Ibeyi,
+702,Tassia Reis,"brazilian hip hop, nova mpb"
+703,Ben E. King,
+704,Janelle Monáe,alternative r&b
+705,Kelsey Lu,"alternative r&b, art pop"
+706,Elujay,"alternative r&b, indie r&b"
+707,Erykah Badu,"neo soul, r&b"
+708,Elza Soares,"samba, mpb, bossa nova"
+709,Mahmundi,"nova mpb, brazilian pop, mpb"
+710,Bia Ferreira,nova mpb
+711,Cosmo Pyke,bedroom pop
+712,Lauren Spencer Smith,
+713,Jelani Aryeh,
+714,Priscila Tossan,"nova mpb, mpb"
+715,Nina Oliveira,"nova mpb, forró, forró tradicional"
+716,MC Fioti,brazilian funk
+717,Larissa Luz,nova mpb
+718,Anelis Assumpção,nova mpb
+719,Giovani Cidreira,nova mpb
+720,Rachel Chinouriri,
+721,Labrinth,
+722,Majur,"nova mpb, brazilian pop"
+723,The Neighbourhood,
+724,Flume,future bass
+725,Local Natives,
+726,Amber Mark,"alternative r&b, indie soul"
+727,Thundercat,
+728,Kid Cudi,
+729,Toro y Moi,chillwave
+730,Anderson .Paak,
+731,Rubel,"nova mpb, mpb"
+732,Pabllo Vittar,"brazilian pop, funk pop, tecnobrega"
+733,Mc Alysson,"brazilian funk, funk carioca, brega funk"
+734,Gloria Groove,"brazilian pop, funk pop, pagode, brazilian funk"
+735,MC Kevin o Chris,"brazilian funk, funk carioca, brega funk"
+736,Demi Lovato,
+737,Katy Perry,pop
+738,Ariana Grande,pop
+739,Selena Gomez,
+740,DNCE,
+741,Taylor Swift,
+742,Capital Cities,
+743,Adore Delano,
+744,Selena Gomez & The Scene,
+745,Mc Livinho,"brazilian funk, funk carioca"
+746,Getúlio Abelha,"tecnobrega, brega, nova mpb"
+747,Mc Don Juan,"brazilian funk, funk consciente, trap funk"
+748,MC Kekel,brazilian funk
+749,Novos Baianos,"mpb, samba, bossa nova"
+750,Ednardo,mpb
+751,Moraes Moreira,"mpb, axé"
+752,Lulu Santos,"mpb, brazilian rock, brazilian pop"
+753,Panic! At The Disco,emo
+754,The Magic Gang,
+755,Jaloo,"nova mpb, tecnobrega, brazilian pop"
+756,James Bay,
+757,Trombone de Frutas,nova mpb
+758,Castello Branco,nova mpb
+759,Barcamundi,nova mpb
+760,Zimbra,"nova mpb, brazilian rock, mpb"
+761,Iron & Wine,indie folk
+762,Coldplay,
+763,Mac Miller,
+764,AURORA,"norwegian pop, art pop"
+765,Aaron Taylor,"indie soul, neo soul"
+766,Solo Artist Saxx,
+767,Mundo Livre S/A,"nova mpb, brazilian rock"
+768,DREAMERS,
+769,Jean Dawson,
+770,Alice Merton,
+771,Bobby Darin,"big band, adult standards, swing music, doo-wop"
+772,Jimmy Cliff,"reggae, rocksteady, roots reggae"
+773,ZAYN,
+774,Alex Turner,
+775,The Vaccines,"indie, indie rock"
+776,Kakkmaddafakka,
+777,Alvvays,"dream pop, shoegaze, jangle pop, indie"
+778,The Temper Trap,
+779,Adoniran Barbosa,"samba, mpb, bossa nova"
+780,Ilê Aiyê,axé
+781,Luiz Caldas,axé
+782,É O Tchan,"axé, pagode baiano, pagode"
+783,Banda Batidão do Melody,"tecnobrega, brega"
+784,Ara Ketu,"axé, pagode, samba, pagode baiano"
+785,Margareth Menezes,axé
+786,Cheiro de Amor,"axé, pagode baiano"
+787,Banda Beijo,"axé, pagode baiano"
+788,Chiclete Com Banana,"axé, pagode baiano"
+789,Bezerra Da Silva,"samba, pagode"
+790,Rubens Da Mangueira,samba
+791,Zeca Pagodinho,"samba, pagode"
+792,Clementina De Jesus,"samba, axé"
+793,Grupo Pura Tentação,"samba, axé, pagode"
+794,Jovelina Perola Negra,"samba, pagode"
+795,Candeias,"brazilian jazz, bossa nova"
+796,Roberto Ribeiro,samba
+797,Galocantô,"samba, pagode"
+798,Xande de Pilares,"samba, pagode, mpb"
+799,The Belonging Co,"worship, christian, ccm"
+800,Nosso Sentimento,"pagode, samba"
+801,Nelson Cavaquinho,"samba, mpb"
+802,Barbatuques,
+803,Tulipa Ruiz,"nova mpb, mpb"
+804,Mariana Aydar,"nova mpb, forró, forró tradicional, mpb"
+805,Dona Onete,"tecnobrega, brega"
+806,The Ophelias,baroque pop
+807,Selah Sue,
+808,Cœur De Pirate,"french pop, chanson québécoise, variété française, chanson"
+809,Yael Naim,
+810,Kate Nash,anti-folk
+811,Eliza Doolittle,
+812,Carla Bruni,"french jazz, chanson"
+813,Audrey Hepburn,
+814,Janis Joplin,"classic rock, acid rock, psychedelic rock"
+815,The Chainsmokers ft. Halsey,
+816,Carly Rae Jepsen,
+817,The Chainsmokers,
+818,Ed Sheeran,soft pop
+819,Major Lazer & DJ Snake ft. MØ,
+820,Bruno Mars,
+821,Halsey,
+822,Jason Derulo,
+823,Hanson,
+824,The Wanted,
+825,Blu Cantrell,
+826,Shaggy,reggae
+827,Olivia Rodrigo,
+828,DJ Snake ft Justin Bieber,
+829,Bastille,
+830,Lil Nas X,
+831,Little Mix,
+832,Danny Bond,"brazilian pop, funk pop"
+833,Sam Smith,soft pop
+834,George Harrison,
+835,City and Colour,
+836,Lisandro Aristimuño,argentine rock
+837,Aerosmith,"classic rock, rock"
+838,Guns N' Roses,"rock, glam metal, hard rock, classic rock"
+839,Blind Melon,grunge
+840,Deep Purple,"hard rock, classic rock, rock"
+841,The Smashing Pumpkins,"alternative rock, rock"
+842,Faith No More,"funk rock, alternative metal, rap metal, grunge"
+843,Garbage,
+844,Johnny Cash,"classic country, outlaw country, country"
+845,Stone Temple Pilots,"grunge, alternative rock, post-grunge, rock"
+846,The Darkness,glam metal
+847,Steppenwolf,"classic rock, acid rock"
+848,Joan Jett & the Blackhearts,rock
+849,John Lennon,christmas
+850,Interpol,"indie rock, post-punk"
+851,The La's,"britpop, jangle pop"
+852,Snow Patrol,
+853,YZ BIKELIFE 2,
+854,Solomon Burke,"soul, soul blues, classic soul, motown"
+855,Supergrass,britpop
+856,The Band CAMINO,
+857,Orions Belte,"neo-psychedelic, psychedelic rock"
+858,Chet Faker,
+859,Bruno Martini,"brazilian pop, brazilian bass"
+860,Jon Bellion,
+861,Bishop Briggs,
+862,Artis Boris,
+863,HAIM,
+864,Wallows,indie
+865,HUNNY,indie pop
+866,Dayglow,indie rock
+867,Craft Spells,"dream pop, chillwave"
+868,Spoon,"indie rock, indie"
+869,Matt and Kim,
+870,The 1975,
+871,The Royal Concept,
+872,HOMESHAKE,bedroom pop
+873,Sir Chloe,
+874,George Ezra,
+875,New Kids On The Bloco,
+876,Banda do Mar,"nova mpb, mpb"
+877,Leandro Fregonesi,samba
+878,All Time Low,"pop punk, emo, punk"
+879,BOYS LIKE GIRLS,"pop punk, emo"
+880,The Maine,pop punk
+881,Paramore,"pop punk, emo"
+882,We The Kings,pop punk
+883,The Academy Is...,"emo, pop punk"
+884,Cute Is What We Aim For,"pop punk, emo"
+885,Raimundos,"brazilian rock, mpb, brazilian pop"
+886,Forfun,brazilian rock
+887,Pitty,"brazilian rock, mpb, brazilian pop"
+888,Papa Roach,"nu metal, rap metal, alternative metal, rap rock, rock"
+889,Thirty Seconds To Mars,
+890,Dibob,brazilian rock
+891,Limp Bizkit,"nu metal, rap metal, alternative metal, rap rock"
+892,Three Days Grace,"post-grunge, rock"
+893,A Day To Remember,"metalcore, post-hardcore, pop punk, screamo, emo"
+894,Móveis Coloniais de Acaju,"nova mpb, brazilian rock"
+895,Mallu Magalhães,"nova mpb, mpb"
+896,Zeca Baleiro,"mpb, nova mpb, brazilian pop, brazilian rock, samba"
+897,Sérgio Mendes,"brazilian jazz, bossa nova, samba"
+898,Planet Hemp,"brazilian rock, brazilian hip hop"
+899,Key Kelly,
+900,George Michael,
+901,Westlife,
+902,Shaggy with Rayvon,
+903,Bon Jovi,"glam metal, rock"
+904,Elvis Presley,"rockabilly, rock and roll"
+905,Simon & Garfunkel,"folk rock, folk"
+906,Enya,"new age, celtic"
+907,Phil Collins,soft rock
+908,Imagine Dragons,
+909,Temples,"neo-psychedelic, psychedelic rock"
+910,Family of the Year,
+911,Stromae,french pop
+912,McEnroe,
+913,Lighthouse Family,
+914,Camille,french jazz
+915,Pauline Croze,"french jazz, bossa nova, french pop"
+916,Ben L'Oncle Soul,"jazz blues, indie soul"
+917,Unknown Artist LTG,
+918,Édith Piaf,"chanson, variété française, french jazz"
+919,Deportivo,french pop
+920,Coralie Clement,"french jazz, chanson, french pop"
+921,Keren Ann,"french jazz, french pop"
+922,Frànçois & The Atlas Mountains,"french indie pop, french pop"
+923,Brigitte Bardot,"french jazz, french pop, chanson, variété française"
+924,Serge Gainsbourg,"chanson, variété française, french pop, french jazz, french house"
+925,Joe Dassin,"chanson, variété française, french pop"
+926,Mélanie Laurent,
+927,1915,"latin indie, latin alternative"
+928,107 Faunos,"latin indie, latin alternative"
+929,Julio y Agosto,"latin indie, latin folk"
+930,Prietto Viaja al Cosmos con Mariano,"latin alternative, latin indie"
+931,Stereolab,"art pop, krautrock, post-rock, neo-psychedelic"
+932,Sape Kayan,traditional music
+933,Teresa Cristina,"samba, mpb, pagode"
